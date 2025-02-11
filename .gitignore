@@ -1,0 +1,6 @@
+venv/
+.env
+__pycache__/
+*.pem
+requirements.txt.backup
+DigiCertGlobalRootCA.crt.pem
